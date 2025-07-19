@@ -1,6 +1,6 @@
 # 📡 ScopeZero – 100 MS/s DIY Open Oscilloscope
 
-ScopeZero is a student-built, affordable oscilloscope designed around the AD9280 8-bit 100 MS/s ADC and the ESP32-S3 for fast, flexible digital capture. This repo contains the full schematic, PCB, and firmware source for anyone who wants to build or learn from it.
+ScopeZero is an affordable oscilloscope designed around the AD9280 8-bit 100 MS/s ADC and the ESP32 for fast, flexible digital capture. This repo contains the full schematic, PCB, and firmware source for anyone who wants to build or learn from it.
 
 ---
 
